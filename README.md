@@ -1,4 +1,4 @@
-Basic Git Commands
+#Basic Git Commands
 ### Creating a repo
 ```
 touch README.md
